@@ -1,6 +1,7 @@
 import {render} from 'react-dom';
+import App from './App';
 
 render(
-  <div>asfasffsdsffaas</div>,
+  <App />,
   document.getElementById('root')
 );
